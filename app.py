@@ -67,7 +67,7 @@ st.write(user_df)
 #============================Predicition================================
 if st.button("Click to Predict:"):
   with  st.spinner("Prediciting.."):
-    import time '
+    import time 
     time.sleep
     time.sleep(2)
     final_ans = model.predict([all_ans])[0] 
