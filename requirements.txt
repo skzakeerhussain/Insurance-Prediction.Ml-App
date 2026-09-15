@@ -1,4 +1,4 @@
-sxikit-learn
+scikit-learn
 pandas
 numpy
 matplotlib
